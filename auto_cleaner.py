@@ -3,7 +3,7 @@ import time
 
 def find_and_double_click(image_paths, confidence=0.7):
     """
-    Locate an image on the screen from multiple options and double-click on it.
+    Locate an image on the screen from multiple options and double-click on it. 
     
     Args:
     image_paths (list): A list of paths to the images to locate.

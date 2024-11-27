@@ -15,3 +15,10 @@ However, due to the security of the organization, the our Slacks admins weren't 
 So Version 2 was built on a no-code app called Make.com, on this version, for some reason, it allowed API access by just logging into my Slack account to intergrate both softwares. I could of probably figured this out via Python but that would of taken more time, time which could of been used to claim more Golden Gooses. This version worked PERFECTLY it had a 95% win rate. It was so good, it forced the sales managers to change the rules. Instead of Free-for-all, hungriest dogs eats first rules... the rules were changed to round robin. Thus ending the month and a half reign of the Golden Goose Bot.
 
 I still want to share the code of Version 1 because it was the first real project I ever set out to do on my own. 
+
+
+auto_cleaner.py is a version that scans my whole screen for notifications
+
+auto_region.py is a version that scans a specific region to cutdown on wait time and increase efficiency
+
+auto_sound.py is a version that plays a "cha-ching" sound everytime it commented. This got annoying really fast because at one point it was ringing every hour of the work day. 

@@ -1,4 +1,4 @@
-Context: 
+**Context: **
 
 In the world of sales, speed to lead is key. Specially for warm, ready to buy leads. Our company had a double booking system to increase show rate to maximize the Closer's time. When 2 Financially qualified (FQ) prospects would show up at the same time, the 1 prospect gets marked as a "Double booking" in our CRM by the Closer. 
 
@@ -16,6 +16,7 @@ So Version 2 was built on a no-code app called Make.com, on this version, for so
 
 I still want to share the code of Version 1 because it was the first real project I ever set out to do on my own. 
 
+**Functions:**
 
 auto_cleaner.py is a version that scans my whole screen for notifications
 
